@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/andre/Desktop/Folders/kaggle_notebooks/PS-S3E24-smoking/mlruns/913995179726050048/47e3b990c6634989ada6775464fd67a5/artifacts
+end_time: 1699659435397
+entry_point_name: ''
+experiment_id: '913995179726050048'
+lifecycle_stage: active
+run_id: 47e3b990c6634989ada6775464fd67a5
+run_name: '1'
+run_uuid: 47e3b990c6634989ada6775464fd67a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699659410267
+status: 3
+tags: []
+user_id: andre
